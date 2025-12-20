@@ -4,3 +4,4 @@ READ ME!
 2. no, there is no malware here. if you're really unsure, use a VM.
 3. yes, QuetteOS is in alpha (and probably will always be)
 4. quette comes from disquette. (disquette is french for floppy disk)
+5. when you download the i686 tools, add the install location (example: C:\Program Files\i686) and apply.
