@@ -5,3 +5,4 @@ READ ME!
 3. yes, QuetteOS is in alpha (and probably will always be)
 4. quette comes from disquette. (disquette is french for floppy disk)
 5. when you download the i686 tools, add the install location (example: C:\Program Files\i686) and apply.
+6. this does work with windows 10, however, windows 11 is in a gray area right now. if anyone is on windows 11, please report the bugs so i can fix them
