@@ -6,3 +6,4 @@ READ ME!
 4. quette comes from disquette. (disquette is french for floppy disk)
 5. when you download the i686 tools, add the install location to PATH (example: C:\Program Files\i686) and apply.
 6. this does work with windows 10, however, windows 11 is in a gray area right now. if anyone is on windows 11, please report the bugs so i can fix them
+7. this is a FREE TRIAL. The full version of QuetteOS WILL BE PAID.
